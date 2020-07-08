@@ -24,7 +24,7 @@
   {
     "id": 4,
     "name": "Rover",
-    "username": "Santosh Shaastry",
+    "em": "Santosh Shaastry",
     "email": "dev-avengers@khoros.com",
     "components":["ExInt"]
   },
