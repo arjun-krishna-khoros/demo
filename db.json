@@ -2,73 +2,73 @@
   {
     "id": 1,
     "name": "Avengers",
-    "username": "Bret",
+    "em": "Abhinn Gautam",
     "email": "dev-avengers@khoros.com",
     "slack": "",
-    "components":["Groups","TinyMCE","Custom Tags"]
+    "components":["CWA", "Message Editing & Posting", "Tags & Labels", "Discussion" ]
   },
   {
     "id": 2,
     "name": "Calvin",
-    "username": "Antonette",
+    "em": "Abhinn Gautam",
     "email": "dev-calvin@khoros.com",
-    "components":["Tribal Knowledge Base","ValueAnalytics"]
+    "components":["Tribal Knowledge Base","Private Messages","Admin & Settings","Events & Live Streaming"]
   },
   {
     "id": 3,
     "name": "Titans",
-    "username": "Samantha",
+    "em": "Prerna Rao",
     "email": "dev-titans@khoros.com",
-    "components":["Aurora-Search","Aurora-Blogs"]
+    "components":["Aurora-Search","Blogs","Performance","Trouble"]
   },
   {
     "id": 4,
     "name": "Rover",
-    "username": "Karianne",
+    "username": "Santosh Shaastry",
     "email": "dev-avengers@khoros.com",
-    "components":["",""]
+    "components":["ExInt"]
   },
   {
     "id": 5,
     "name": "Helium",
-    "username": "Kamren",
+    "em": "Abhinn Gautam",
     "email": "dev-helium@khoros.com",
-    "components":["Community Syndication","Accessibility"]
+    "components":["Community Syndication","General LIA Security and Performance","SEO"]
   },
   {
     "id": 6,
     "name": "Hobbes",
-    "username": "Leopoldo_Corkery",
+    "em": "Harikiran",
     "email": "dev-hobbes@khoros.com",
-    "components":["Search & Findability","CSP Service"]
+    "components":["Search & Findability"]
   },
   {
     "id": 7,
     "name": "Dapper",
-    "username": "Elwyn.Skiles",
+    "em": "Prerna Rao",
     "email": "dev-dapper@khoros.com",
-    "components":["LSI data quality","Data Analytics"]
+    "components":["LSI","Community Analytics"]
   },
   {
     "id": 8,
     "name": "JEDI",
-    "username": "Maxime_Nienow",
+    "em": "Maxime_Nienow",
     "email": "team-jedi@khoros.com",
-    "components":["",""]
+    "components":["Vault"]
   },
   {
     "id": 9,
     "name": "Dark Knight",
-    "username": "Delphine",
+    "em": "Santosh Shaastry",
     "email": "team-dark-knights@khoros.com",
-    "components":["",""]
+    "components":["PUBS"]
   },
   {
     "id": 10,
     "name": "Triumph",
-    "username": "Moriah.Stanton",
+    "em": "Santosh Shaastry",
     "email": "dev-triumph@khoros.com",
-    "components":["Community SDK","CRM Integrations"]
+    "components":["Notification Service","CRM Integrations","Mobile & Community SDK"]
   }
 ]
 }
