@@ -5,7 +5,7 @@
     "em": "Abhinn Gautam",
     "email": "dev-avengers@khoros.com",
     "slack": "",
-    "components":["CWA", "Message Editing & Posting", "Tags & Labels", "Discussion" ]
+    "components":["CWA","Message Editing & Posting", "Tags & Labels", "Discussion" ]
   },
   {
     "id": 2,
