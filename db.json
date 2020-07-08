@@ -3,7 +3,8 @@
     "id": 1,
     "name": "Avengers",
     "username": "Bret",
-    "email": "Sincere@april.biz",
+    "email": "dev-avengers@khoros.com",
+    "slack": "",
     "address": {
       "street": "Kulas Light",
       "suite": "Apt. 556",
@@ -26,7 +27,7 @@
     "id": 2,
     "name": "Calvin",
     "username": "Antonette",
-    "email": "Shanna@melissa.tv",
+    "email": "dev-calvin@khoros.com",
     "address": {
       "street": "Victor Plains",
       "suite": "Suite 879",
@@ -49,7 +50,7 @@
     "id": 3,
     "name": "Titans",
     "username": "Samantha",
-    "email": "Nathan@yesenia.net",
+    "email": "dev-titans@khoros.com",
     "address": {
       "street": "Douglas Extension",
       "suite": "Suite 847",
@@ -72,7 +73,7 @@
     "id": 4,
     "name": "Rover",
     "username": "Karianne",
-    "email": "Julianne.OConner@kory.org",
+    "email": "dev-avengers@khoros.com",
     "address": {
       "street": "Hoeger Mall",
       "suite": "Apt. 692",
@@ -95,7 +96,7 @@
     "id": 5,
     "name": "Helium",
     "username": "Kamren",
-    "email": "Lucio_Hettinger@annie.ca",
+    "email": "dev-helium@khoros.com",
     "address": {
       "street": "Skiles Walks",
       "suite": "Suite 351",
@@ -118,7 +119,7 @@
     "id": 6,
     "name": "Hobbes",
     "username": "Leopoldo_Corkery",
-    "email": "Karley_Dach@jasper.info",
+    "email": "dev-hobbes@khoros.com",
     "address": {
       "street": "Norberto Crossing",
       "suite": "Apt. 950",
@@ -141,7 +142,7 @@
     "id": 7,
     "name": "Dapper",
     "username": "Elwyn.Skiles",
-    "email": "Telly.Hoeger@billy.biz",
+    "email": "dev-dapper@khoros.com",
     "address": {
       "street": "Rex Trail",
       "suite": "Suite 280",
@@ -164,7 +165,7 @@
     "id": 8,
     "name": "JEDI",
     "username": "Maxime_Nienow",
-    "email": "Sherwood@rosamond.me",
+    "email": "team-jedi@khoros.com",
     "address": {
       "street": "Ellsworth Summit",
       "suite": "Suite 729",
@@ -187,7 +188,7 @@
     "id": 9,
     "name": "Dark Knight",
     "username": "Delphine",
-    "email": "Chaim_McDermott@dana.io",
+    "email": "team-dark-knights@khoros.com",
     "address": {
       "street": "Dayna Park",
       "suite": "Suite 449",
@@ -210,7 +211,7 @@
     "id": 10,
     "name": "Triumph",
     "username": "Moriah.Stanton",
-    "email": "Rey.Padberg@karina.biz",
+    "email": "dev-triumph@khoros.com",
     "address": {
       "street": "Kattie Turnpike",
       "suite": "Suite 198",
